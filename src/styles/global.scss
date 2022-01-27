@@ -1,0 +1,22 @@
+.button {
+  width: 320px;
+  height: 49px;
+  background: #835afd;
+  border-radius: 8px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #fefefe;
+  font-family: "Poppins", sans-serif;
+}
+
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 576px;
+  height: 588px;
+  background-color: #f0f2f5;
+  border-radius: 5px;
+}
